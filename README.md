@@ -43,6 +43,6 @@ To improve this study, here are some things that could be done.
   - Although 100 games seems adequate for this study, more games is always better.
   - To achieve this, we need to apply for a better API key through Riot's development portal.
 - KDA analysis
-  -I've included KDA metrics in this study but did not use it.
+  - I've implemented a KDA algorithm in this study but did not use it.
   - League of Legends is a team game. Thus, performance may be affected by teammate's performances.
-  -So instead of win rate, we could use KDA instead.
+  - So instead of win rate, we could use KDA instead.
